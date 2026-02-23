@@ -21,3 +21,6 @@ Home Assignment 1 - links and notes for later reference
   - 2:00pm - 4:00pm - [Math](https://learn.georgebrown.ca/d2l/home/447678)
 - Friday
   - 12:00pm - 2:00pm - [IT Essentials](https://learn.georgebrown.ca/d2l/home/451461)
+
+https://github.com/your_user_name/your_repo_name/
+https://github.com/LainniL/notes-gbc
