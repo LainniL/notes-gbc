@@ -4,7 +4,7 @@ Home Assignment 1 - links and notes for later reference
 - [D2L](https://learn.georgebrown.ca)
 - [AtKlass](https://app.atklass.com)
 - [Important Dates](https://www.georgebrown.ca/current-students/important-dates?term=27246&category=131)
-- [reference notes from week 1 to 5](comp1238.md)
+- [Reference notes from week 1 to 5](comp1238.md)
 ## My Class Schedule 
 - Monday
   - 9:00 - 11:00am - [Computing Logic](https://learn.georgebrown.ca/d2l/home/455928) 
