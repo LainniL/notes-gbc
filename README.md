@@ -22,4 +22,4 @@ Home Assignment 1 - links and notes for later reference
 - Friday
   - 12:00pm - 2:00pm - [IT Essentials](https://learn.georgebrown.ca/d2l/home/451461)
 
-[submission link](https://github.com/LainniL/notes-gbc)
+
